@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fortune</string>
+    <string name="main">おみくじ引く?</string>
+    <string name="move">スタート</string>
+    <string name="sub">おみくじ結果</string>
+    <string name="result"></string>
+    <string name="reason"></string>
+    <string name="img_description1">image2</string>
+    <string name="return_sub">戻る</string>
+</resources>
