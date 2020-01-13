@@ -10,3 +10,12 @@
  
 ■開発言語
  JAVA
+ 
+■使用したプログラム
+
+ MainActivity.java(Fortune\Fortune\app\src\main\java\com\example\fortune\MainActivity.java)
+ SubActivity.java(Fortune\Fortune\app\src\main\java\com\example\fortune\SubActivity.java)
+ Fortune.java(Fortune\Fortune\app\src\main\java\com\example\fortune\Fortune.java)
+ activity_main.xml(Fortune\Fortune\app\src\main\res\layout\activity_main.xml)
+ activity_sub.xml(Fortune\Fortune\app\src\main\res\layout\activity_sub.xml)
+ strings.xml(Fortune\Fortune\app\src\main\res\values\strings.xml)
