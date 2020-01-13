@@ -13,9 +13,14 @@
  
 ■使用したプログラム
 
- MainActivity.java(https://github.com/YH0624/Fortune/tree/master/Fortune/app/src/main/java/com/example/fortune)
- SubActivity.java(https://github.com/YH0624/Fortune/tree/master/Fortune/app/src/main/java/com/example/fortune)
- Fortune.java(https://github.com/YH0624/Fortune/tree/master/Fortune/app/src/main/java/com/example/fortune)
+※下記三点のパス(https://github.com/YH0624/Fortune/tree/master/Fortune/app/src/main/java/com/example/fortune)
+ MainActivity.java
+ SubActivity.java
+ Fortune.java
+ 
+ ※下記2点のパス(https://github.com/YH0624/Fortune/tree/master/Fortune/app/src/main/res/layout)
  activity_main.xml(Fortune\Fortune\app\src\main\res\layout\activity_main.xml)
  activity_sub.xml(Fortune\Fortune\app\src\main\res\layout\activity_sub.xml)
+ 
+ ※下記のパス(https://github.com/YH0624/Fortune/tree/master/Fortune/app/src/main/res/values)
  strings.xml(Fortune\Fortune\app\src\main\res\values\strings.xml)
