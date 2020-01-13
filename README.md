@@ -13,11 +13,20 @@
  
 ■使用したプログラム
 
- MainActivity.java (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/java/com/example/fortune/MainActivity.java)
- SubActivity.java  (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/java/com/example/fortune/SubActivity.java)
- Fortune.java      (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/java/com/example/fortune/Fortune.java)
+ MainActivity.java 
+ (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/java/com/example/fortune/MainActivity.java)
  
- activity_main.xml (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/res/layout/activity_main.xml)
- activity_sub.xml  (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/res/layout/activity_sub.xml)
+ SubActivity.java  
+ (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/java/com/example/fortune/SubActivity.java)
  
- strings.xml       (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/res/values/strings.xml)
+ Fortune.java
+ (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/java/com/example/fortune/Fortune.java)
+ 
+ activity_main.xml
+ (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/res/layout/activity_main.xml)
+ 
+ activity_sub.xml  
+ (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/res/layout/activity_sub.xml)
+ 
+ strings.xml       
+ (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/res/values/strings.xml)
