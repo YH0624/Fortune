@@ -22,11 +22,12 @@
  Fortune.java
  (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/java/com/example/fortune/Fortune.java)
  
- activity_main.xml
+ activity_main.xml                              
  (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/res/layout/activity_main.xml)
  
  activity_sub.xml  
  (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/res/layout/activity_sub.xml)
+ 
  
  strings.xml       
  (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/res/values/strings.xml)
