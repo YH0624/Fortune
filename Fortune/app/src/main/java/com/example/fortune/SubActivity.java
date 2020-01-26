@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class SubActivity extends AppCompatActivity {
 
     Fortune fortune = new Fortune();
-    // drawableに画像を入れる、R.id.xxx はint型
+    // drawableに画像を入れる
     private static final int[] photos = {
             R.drawable.great_good,
             R.drawable.middle_good,
