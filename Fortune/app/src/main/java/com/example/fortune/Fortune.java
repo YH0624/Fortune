@@ -10,8 +10,6 @@ class Fortune {
                                             , "今日は、落とし物や忘れ物に気を付けて!!"
                                             , "今日は、自宅待機した方がいいかも!!"};
 
-    private String[] fortuneImage ={};
-
 
     //fortuneListの結果を返す
       String fortuneList(int i){
