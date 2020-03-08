@@ -14,15 +14,14 @@
   HUAWEI P20 lite
   
 # WayToUse<br>
-  メイン画面のスタートボタンを押すと、おみくじ結果を出力
- 結果はサブ画面に、「大吉」、「中吉」、「小吉」、「末吉」、「大凶」が
- 表示されます。おみくじの結果ごとに、メッセージとおみくじの結果画像も出力
- されます。
+  メイン画面のスタートボタンを押すと、おみくじ結果を出力結果はサブ画面に<br>
+  「大吉」、「中吉」、「小吉」、「末吉」、「大凶」が表示されます。<br>
+  おみくじの結果ごとに、メッセージとおみくじの結果画像も出力されます。
   
-# The point that I devised
-  右記のfunction参照(onClick)  MainActivity.javaに記載
-  右記のfunction参照(onCreate) SubActivity.javaに記載
-  右記のclass参照   (Fortune)  Fortune.javaに記載
+# The point that I devised <br>
+  右記のfunction参照(onClick)  MainActivity.javaに記載 <br>
+  右記のfunction参照(onCreate) SubActivity.javaに記載  <br>
+  右記のclass参照   (Fortune)  Fortune.javaに記載      <br>
   
 # ProgramUsed
  MainActivity.java 
