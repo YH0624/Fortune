@@ -1,5 +1,6 @@
 # Documentt<br>
-  Fortune(占いアプリ作成)
+  Fortune(占いアプリ作成)<br>
+  <img src="https://github.com/YH0624/Fortune/blob/master/MainScreen.jpg" >
 
 # Development<br>
   Android Studio Ver 3.5.2
