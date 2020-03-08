@@ -1,18 +1,30 @@
-# Fortune(占いアプリ作成)
-■メイン画面とサブ画面で作成
- メイン画面のスタートボタンを押すと、おみくじ結果を出力します。
+# Documentt<br>
+  Fortune(占いアプリ作成)
+
+# Development<br>
+  Android Studio Ver 3.5.2
+  
+# Programming Language<br>
+  JAVA
+
+# Description<br>
+  おみくじができるアプリ
+  
+# Validation<br>
+  HUAWEI P20 lite
+  
+# WayToUse<br>
+  メイン画面のスタートボタンを押すと、おみくじ結果を出力
  結果はサブ画面に、「大吉」、「中吉」、「小吉」、「末吉」、「大凶」が
  表示されます。おみくじの結果ごとに、メッセージとおみくじの結果画像も出力
  されます。
- 
-■開発環境
- Android Studio Ver 3.5.2
- 
-■開発言語
- JAVA
- 
-■使用したプログラム
-
+  
+# The point that I devised
+  右記のfunction参照(onClick)  MainActivity.javaに記載
+  右記のfunction参照(onCreate) SubActivity.javaに記載
+  右記のclass参照   (Fortune)  Fortune.javaに記載
+  
+# ProgramUsed
  MainActivity.java 
  (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/java/com/example/fortune/MainActivity.java)
  
@@ -27,7 +39,6 @@
  
  activity_sub.xml  
  (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/res/layout/activity_sub.xml)
- 
  
  strings.xml       
  (https://github.com/YH0624/Fortune/blob/master/Fortune/app/src/main/res/values/strings.xml)
