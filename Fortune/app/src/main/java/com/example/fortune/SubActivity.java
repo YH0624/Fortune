@@ -6,12 +6,13 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 public class SubActivity extends AppCompatActivity {
 
     Fortune fortune = new Fortune();
-    // drawableに画像を入れる
+    // drawableに画像を入れる、R.id.xxx はint型
     private static final int[] photos = {
             R.drawable.great_good,
             R.drawable.middle_good,
