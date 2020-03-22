@@ -3,7 +3,7 @@
   <img src="https://github.com/YH0624/Fortune/blob/master/MainScreen.jpg" >
 
 # 開発環境<br>
-  Android Studio Ver 3.5.2
+  Android Studio Ver 3.6.1
   
 # プログラミング言語<br>
   JAVA
